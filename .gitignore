@@ -1,0 +1,4 @@
+/venv_env
+requirements.in
+requirements-dev.in
+\.ipynb_checkpoints
