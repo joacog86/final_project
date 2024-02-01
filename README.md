@@ -16,4 +16,5 @@ The models used for the classification problem are
 * Decision trees
 
 These models are later Hyperparameter Tuned.
+
 At the end of the Notebok, there are some conclusion and Next Steps recommendations for the ISP to prevent churn.
